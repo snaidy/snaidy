@@ -1,6 +1,6 @@
 ### Hola mi nombre es Snaidy Giraldo Guzmán 👋
 🔭 Soy Ingeniera Electrónica.
-*🌱 Actualmente estoy aprendiendo sobre sobre desarrollo Front-end.
+** 🌱 Actualmente estoy aprendiendo sobre sobre desarrollo Front-end.
 
 <!--
 **snaidy/snaidy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
