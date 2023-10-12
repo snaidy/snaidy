@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hola, soy Snaidy Guzmán.<br>👨‍💻 Soy Ingeniera Electrónica, apasionada por las Telecomunicaciones y el desarrollo Front End.<br>🌱 Actualmente estoy aprendiendo sobre desarrollo Front-end.<br>📫 Cómo contactarme snaidyg98@gmail.com
+👋 Hola, soy Snaidy Guzmán.<br>👨‍💻 Soy Ingeniera Electrónica y Desarrolladora Front End, apasionada por las Telecomunicaciones, el desarrollo web, los animales y la literatura.<br>🌱 Actualmente estoy aprendiendo más sobre desarrollo Front-end y bases de datos.<br>📫 Cómo contactarme snaidyg98@gmail.com
 
 
 ## 🌐 Socials:
